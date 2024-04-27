@@ -6,7 +6,9 @@
 .env.production
 
 # air
-tmp
+tmp/build-errors.log
+tmp/build-output.log
+tmp/main.exe
 tmp/**
 
 # vscode
