@@ -6,7 +6,9 @@
 .env.production
 
 # air
-/tmp/*
-/tmp/**/*
 tmp
-tmp/**/*
+tmp/**
+
+# vscode
+.vscode
+.vscode/**
