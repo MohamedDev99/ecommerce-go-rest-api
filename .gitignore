@@ -5,3 +5,6 @@
 .env.test
 .env.production
 
+# air
+./tmp/*
+./tmp/**/*
