@@ -6,6 +6,7 @@
 .env.production
 
 # air
-./tmp/*
 /tmp/*
 /tmp/**/*
+tmp
+tmp/**/*
